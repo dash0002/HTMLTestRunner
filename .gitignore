@@ -1,3 +1,6 @@
 *.pyc
 .project
 .vagrant
+.DS_Store
+.pydevproject
+.settings
