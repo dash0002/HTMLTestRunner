@@ -671,7 +671,7 @@ class HTMLTestRunner(Template_mixin):
                 skip = ns,
                 fail = nf,
                 error = ne,
-                cid = 'c%s' % (cid+1)
+                cid = 'c%s' % (cid+1),
             )
             rows.append(row)
 
